@@ -6,8 +6,8 @@ I am coding to build useful tools. Especially I focus Frontend and better visual
 <div><b>Love2d Java C++ Go</b> is also impressive but I will use it in future for extreme level project</div>
 
 ## Tools
-<p>Image Editor: SVG Editor , Canvas Editor .</p>
-<p>Video Editor: InstantCut (coming soon) .</p>
-<p>Data Management: Data Box , HTML Home (On going) .</p>
-<p>Calculator: MathSolver (pause for years) , Chess Engine (3 attempt failed) .</p>
-<p>Game: Tic Tac Toe (first project)</p>
+<div><b>Image Editor:</b> SVG Editor , Canvas Editor .</div>
+<div><b>Video Editor:</b> InstantCut (coming soon) .</div>
+<div><b>Data Management:</b> Data Box , HTML Home (On going) .</div>
+<div><b>Calculator:</b> MathSolver (pause for years) , Chess Engine (3 attempt failed) .</div>
+<div><b>Game:</b> Tic Tac Toe (first project)</div>
