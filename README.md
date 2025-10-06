@@ -12,4 +12,8 @@ I am coding to build useful tools. Especially I focus Frontend and better visual
 <div><b>Calculator:</b> MathSolver (pause for years) , Chess Engine (3 attempt failed) .</div>
 <div><b>Game:</b> Tic Tac Toe (first project) , Minecraft Datapack , Godot HCR .</div>
 <br>
-<img src="https://media.discordapp.net/attachments/1235151083647799317/1424444832629129378/image.png?ex=68e54aa1&is=68e3f921&hm=a7752df570d044f3e76a262ae1726106545f6c77df6399db065058c706a503e7&=&format=webp&quality=lossless&width=979&height=464">
+
+<details>
+  <summary>Click to reveal image</summary>
+  ![]([https://example.com/image.png](https://media.discordapp.net/attachments/1235151083647799317/1424444832629129378/image.png?ex=68e54aa1&is=68e3f921&hm=a7752df570d044f3e76a262ae1726106545f6c77df6399db065058c706a503e7&=&format=webp&quality=lossless&width=979&height=464))
+</details>
