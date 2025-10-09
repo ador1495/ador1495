@@ -1,5 +1,5 @@
 # Hi, I'm Ador
-I am coding to build useful tools. Especially I focus Frontend and better visualization. I always try to add endless amount of feature in my apps. Even my feature impressed me lot! I love my acheivements.
+I am coding to build useful daily use tools. Especially I focus on Frontend and I want to make learning theoritical to visual for kids. I always try to add endless amount of feature in my apps. Even my feature impressed me lot! I love my acheivements.
 
 ## Language
 <div><b>HTML CSS JS Py</b> is best combination to done anything</div>
