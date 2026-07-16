@@ -1,9 +1,8 @@
 # Hi, I'm Ador
-I am coding to build useful daily use tools. Especially I focus on Frontend and I want to make learning theoritical to visual for kids. I always try to add endless amount of feature in my apps. Even my feature impressed me lot! I love my acheivements.
 
 ## Language
-<div><b>HTML CSS JS Py</b> is best combination to done anything</div>
-<div><b>Love2d Java C++ Go</b> is also impressive but I will use it in future for extreme level project</div>
+<div><b>HTML CSS JS Py</b> I likes for simple UI designing</div>
+<div><b>QT + C++ / React + Go</b> I am learning</div>
 
 ## Tools & Projects
 <div><b>Image Editor:</b> SVG Editor , Canvas Editor .</div>
@@ -13,7 +12,4 @@ I am coding to build useful daily use tools. Especially I focus on Frontend and 
 <div><b>Game:</b> Tic Tac Toe (first project) , Minecraft Datapack , Godot HCR .</div>
 <br>
 
-<details>
-  <summary>Click to reveal image</summary>
-  <img src="https://media.discordapp.net/attachments/1235151083647799317/1424444832629129378/image.png?ex=68e54aa1&is=68e3f921&hm=a7752df570d044f3e76a262ae1726106545f6c77df6399db065058c706a503e7&=&format=webp&quality=lossless&width=979&height=464">
-</details>
+<div>Discord - ador_global : Contact me for collab</div>
