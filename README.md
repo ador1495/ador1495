@@ -1,15 +1,13 @@
 # Hi, I'm Ador
 
-## Language
-<div><b>HTML CSS JS Py</b> I likes for simple UI designing</div>
-<div><b>QT + C++ / React + Go</b> I am learning</div>
+## Always try to stay in vanilla HTML + DB otherwise Tauri
+still I try to explore Android studio , C++ and assembly Language with AI
 
-## Tools & Projects
-<div><b>Image Editor:</b> SVG Editor , Canvas Editor .</div>
-<div><b>Video Editor:</b> InstantCut (coming soon) .</div>
-<div><b>Data Management:</b> Data Box , HTML Home (On going) .</div>
-<div><b>Calculator:</b> MathSolver (pause for years) , Chess Engine (3 times) .</div>
-<div><b>Game:</b> Tic Tac Toe (first project) , Minecraft Datapack , Godot HCR .</div>
-<br>
+### Heavy AI user from very first projects since 2023
+I explored chess engine from lowest level binary calculation process to gain 100% utilization of processor
+I made most aesthetic resources for HSC Students
+I have deep array understanding out of none AI coding
+In offline when I have no AI . I likes to play with Array
 
-<div>Discord - ador_global : Contact me for collab</div>
+My offline learning source devdocs.io/javascript
+My online learning source Argon, Gemini and ChatGPT
